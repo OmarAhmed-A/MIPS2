@@ -58,7 +58,7 @@ The completion of the MIPS pipelined datapath with a data hazard solution and tw
 
 ## Contributors
 
-- [Omar Ahmed: 20107196](https://github.com/OmarAhmed-A)
+- [Omar Ahmed: 20107196](https://codebyomar.tk/#/)
 - [Hassan Mikawi: 20104451](https://github.com/Hassan220022)
 - [Omar Alaa](https://github.com/OmarManwar)
 - [Ahmed Osama](https://github.com/AhmedOsama45)
