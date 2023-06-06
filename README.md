@@ -55,3 +55,12 @@ Effective teamwork and collaboration were essential for the success of this proj
 ## Conclusion
 
 The completion of the MIPS pipelined datapath with a data hazard solution and two-level cache memory demonstrates our team's dedication, technical skills, and collaborative spirit. By following a systematic methodology and leveraging each team member's expertise, we successfully designed and implemented a high-performance system that can execute MIPS instructions efficiently while mitigating data hazards. Clear documentation and effective communication played crucial roles in ensuring a smooth development process. Overall, this project provided valuable hands-on experience in VHDL development, pipeline design, data hazard handling, and cache memory implementation.
+
+## Contributors
+
+- [Omar Ahmed: 20107196](https://github.com/OmarAhmed-A)
+- [Hassan Mikawi: 20104451](https://github.com/Hassan220022)
+- [Omar Alaa](https://github.com/OmarManwar)
+- [Ahmed Osama](https://github.com/AhmedOsama45)
+- [Ahmed Amr](https://github.com/AhmedDoesCode02)
+- [Youssef El Demerdash](https://github.com/YOUSSEFELDEMERDASH)
